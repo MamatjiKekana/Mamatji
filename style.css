@@ -42,7 +42,7 @@ a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(photo.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image-1.jpg) center/cover no-repeat;
     background-attachment: fixed;
     color: #fff;
     text-align: center;
@@ -118,7 +118,7 @@ a:hover {
 .projects {
     padding: 50px 20px;
     text-align: center;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(photo.jpg) center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image-1.jpg) center/cover no-repeat;
     background-attachment: fixed;
     color: black;
 }
